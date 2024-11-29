@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KhunHN
+- 👋 Hi, I’m @Khin-KHTO
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning how to code at SheCodes.
 - 💞️ I’m looking to collaborate on GitHub.
